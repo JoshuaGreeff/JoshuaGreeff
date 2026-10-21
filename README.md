@@ -1,16 +1,21 @@
-## Hi there 👋
+# Joshua Greeff
 
-<!--
-**JoshuaGreeff/JoshuaGreeff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+systems engineering | infrastructure automation | developer tooling
+```
 
-Here are some ideas to get you started:
+I build and support the systems behind reliable software. My work sits where infrastructure, security, automation, and application delivery meet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+
+- Infrastructure and platform engineering
+- Cloud, self-hosted systems, and service reliability
+- Automation with Python, PowerShell, and Bash
+- Security-minded operations and developer tooling
+- Microservices, APIs, and the systems that connect them
+
+## Current interests
+
+Exploring practical AI-assisted development, Model Context Protocol tooling, and ways to make complex systems easier to operate and maintain.
+
+> Build it clearly. Automate what repeats. Keep the system understandable.
